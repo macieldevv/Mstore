@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284732434902",
+    "project_id": "mstore-esms",
+    "storage_bucket": "mstore-esms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284732434902:android:d0b91f317cda2ee9fa5c77",
+        "android_client_info": {
+          "package_name": "com.monteiro.mstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284732434902-vpikjvkm3bhdfu4ijc4p0phg9ln3d466.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT_yT51_5qpzMsCM200_63mFftx19qC9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284732434902-vpikjvkm3bhdfu4ijc4p0phg9ln3d466.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
